@@ -69,13 +69,12 @@ header h1 span:hover {
 /* about me section */
 .about {
   background: linear-gradient(rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 1)),
-    url("../images/kik.jpg")no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  background-attachment: fixed;
-}
+    url("../images/kik.jpg"); 
+  -webkit-background-size: 50%;
+  -moz-background-size: 50%;
+  -o-background-size: 50%;
+  background-size: 50%;
+ }
 
 /* my skills section */
 .skills ul {
