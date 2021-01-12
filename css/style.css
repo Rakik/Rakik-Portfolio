@@ -70,7 +70,7 @@ header h1 span:hover {
 .about {
   background: linear-gradient(rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 1)),
     url("../images/kik.jpg");
-  background-size: cover;
+  background-size: 300px 100px;
   background-attachment: fixed;
 }
 
